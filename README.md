@@ -5,6 +5,7 @@ This repository is covers the automation regressing the following endpoints:
  * GET /public/v2/users/:id
  * POST /public/v2/users/:id/posts
  * POST /public/v2/users/:id/todos
+
 Automation tool utilized is Robot Framework. Directory profile are as follows:
  * resources - contains utilities and assertions
     * assertions - contains keywords specific to validating scenarios per endpoint
